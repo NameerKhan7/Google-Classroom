@@ -1,0 +1,4 @@
+Marks: 160				Assignment: oop				Date: 22,4 time: 23:59
+Description: pointers
+Question You have been assigned to create a basic Book Inventory System using Object-Oriented Programming concepts in a programming language of your choice (e.g., Python, Java, C++, etc.). The system should be able to handle books with their title, author, genre, and quantity in stock. Users should be able to perform operations like adding a new book, searching for a book by title, updating the quantity of a book, and displaying the list of all books in the inventory.
+
